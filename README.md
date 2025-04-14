@@ -1,6 +1,6 @@
 🌍 Conecte-se Comigo
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-dimis-tabalipa/)](https://www.linkedin.com/in/allan-dimis/) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-dimis-tabalipa/)](https://www.linkedin.com/in/allandimis/) 
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/allandimis)
 [![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab&logoColor=FCA121)](https://gitlab.com/allandimis)
 
